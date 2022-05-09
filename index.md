@@ -43,6 +43,7 @@ iTTVivs: Interactive Visualization of Table Tennis Data.
 *Yingcai Wu, Ji Lan, Xinhuan Shu, Chengyang Ji, Kejian Zhao, **Jiachen Wang**, and Hui Zhang.* IEEE TVCG 2018 (IEEE InfoVis 2017). [paper](https://zjuidg.org/source/projects/iTTVis/iTTVis.pdf)
 
 ## Awards
+* Semester 2020-2021: First prize in the Humanities and Social Sciences Award for outstanding achievement
 * Semester 2020-2021: National Scholarship
 * Semester 2020-2021: Award of Honor for Graduate
 * Semester 2020-2021: Graduate of Merit
