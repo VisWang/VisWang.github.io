@@ -14,10 +14,10 @@ Phone: +86 17764519325
 
 ## Publication
 ### 2021
-SimuExplorer: Visual Exploration of Game Simulation in Table Tennis. [paper](https://zjuidg.org/source/projects/SimuExplorer/SimuExplorer.pdf) &nbsp
-*Ji Lan, Zheng Zhou, **Jiachen Wang**, Hui Zhang, Xiao Xie, Yingicai Wu.* IEEE Transactions on Visualization and Computer Graphics. 
+SimuExplorer: Visual Exploration of Game Simulation in Table Tennis.
+*Ji Lan, Zheng Zhou, **Jiachen Wang**, Hui Zhang, Xiao Xie, Yingicai Wu.* IEEE Transactions on Visualization and Computer Graphics. [paper](https://zjuidg.org/source/projects/SimuExplorer/SimuExplorer.pdf)
 
-What makes a scatterplot hard to comprehend: data size and pattern salience matter
+What makes a scatterplot hard to comprehend: data size and pattern salience matter.
 ***Jiachen Wang**, Xiwen Cai, Jiajie Su, Yu Liao, Yingcai Wu* Journal of Visualization 2021 (ChinaVis 2021)
 
 Tac-Valuer: Knowledge-based Stroke Evaluation in Table Tennis.
