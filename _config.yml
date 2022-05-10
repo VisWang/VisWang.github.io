@@ -1,4 +1,12 @@
 theme: jekyll-theme-minimal
-title: —— Jiachen Wang ——
+minimal_mistakes_skin: "air" 
+title: — ABOUT ME —
 description: Personal homepage of Jiachen Wang
 logo: "pic/me.png"
+name: Jiachen Wang
+
+author:
+  name     : "Jiachen Wang"
+  avatar   : "/assets/images/bio-photo.jpg"
+  bio      : "My awesome biography constrained to a sentence or two goes here."
+  location : "Somewhere, USA"
