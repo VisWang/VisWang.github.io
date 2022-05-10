@@ -1,4 +1,4 @@
-## Bio
+## <font color=#267cb9 face="Impact"> Bio </font>
 My name is Jiachen Wang. I am a Ph.D candidate supervised by [Prof. Yingcai Wu](http://www.ycwu.org/) . I major in computational sports science which mainly focuses on knowledge discovering and visual analytics of sports data, especially for table tennis.
 
 Moreover, I am also an amateur photographer. If you want to have a look at the pictures I took, you can visit my [500px](https://500px.com/343725635)
@@ -8,11 +8,11 @@ E-mail: wangjiachen@zju.edu.cn
 Phone: +86 17764519325
 
 
-## Education experience
+## <font color=#267cb9> Education experience </font>
 * Digital Media Technology —— Department of Computer Science, Zhejiang University
 * Computational Sports Science —— State Key Lab of CAD & CG, Zhejiang University
 
-## Publication
+## <font color=#267cb9> Publication </font>
 ### 2021
 SimuExplorer: Visual Exploration of Game Simulation in Table Tennis.
 *Ji Lan, Zheng Zhou, **Jiachen Wang**, Hui Zhang, Xiao Xie, Yingicai Wu.* IEEE Transactions on Visualization and Computer Graphics. [paper](https://zjuidg.org/source/projects/SimuExplorer/SimuExplorer.pdf)
@@ -48,7 +48,7 @@ ForVizor: Visualizing Spatio-Temporal Team Formations in Soccer.
 iTTVivs: Interactive Visualization of Table Tennis Data.
 *Yingcai Wu, Ji Lan, Xinhuan Shu, Chengyang Ji, Kejian Zhao, **Jiachen Wang**, and Hui Zhang.* IEEE TVCG 2018 (IEEE InfoVis 2017). [paper](https://zjuidg.org/source/projects/iTTVis/iTTVis.pdf)
 
-## Awards
+## <font color=#267cb9> Awards </font>
 * Semester 2020-2021: First prize in the Humanities and Social Sciences Award for outstanding achievement
 * Semester 2020-2021: National Scholarship
 * Semester 2020-2021: Award of Honor for Graduate
@@ -61,7 +61,7 @@ iTTVivs: Interactive Visualization of Table Tennis Data.
 * Semester 2014-2015: Outstanding Student Leader of Zhejiang University
 * Semester 2014-2015: Second-Class Scholarship for Outstanding Students
 
-## CV
+## <font color=#267cb9> CV </font>
 You can download the pdf version of my [CV](cv/Jiachen Wang_English CV.pdf)
 
 <!-- ## Welcome to GitHub Pages
