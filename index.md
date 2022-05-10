@@ -1,5 +1,5 @@
 # Bio
-My name is Jiachen Wang. I am a Ph.D candidate supervised by [Prof. Yingcai Wu](http://www.ycwu.org/) . I major in computational sports science which mainly focuses on knowledge discovering and visual analytics of sports data, especially for table tennis.
+I am a Ph.D candidate supervised by [Prof. Yingcai Wu](http://www.ycwu.org/) . I major in computational sports science which mainly focuses on knowledge discovering and visual analytics of sports data, especially for table tennis.
 
 Moreover, I am also an amateur photographer. If you want to have a look at the pictures I took, you can visit my [500px](https://500px.com/343725635)
 
