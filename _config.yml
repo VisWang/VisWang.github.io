@@ -2,11 +2,5 @@ theme: jekyll-theme-minimal
 minimal_mistakes_skin: "air" 
 title: — ABOUT ME —
 description: Personal homepage of Jiachen Wang
-# logo: "pic/me.png"
+logo: "pic/me.png"
 name: Jiachen Wang
-
-author:
-  name     : "Jiachen Wang"
-  avatar   : "/pic/me_pure.png"
-  bio      : "My name is Jiachen Wang. I am a Ph.D candidate supervised by [Prof. Yingcai Wu](http://www.ycwu.org/) . I major in computational sports science which mainly focuses on knowledge discovering and visual analytics of sports data, especially for table tennis."
-  location : "Zhejiang University. China"
