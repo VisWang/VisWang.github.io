@@ -1,15 +1,17 @@
 # Bio
-My name is Jiachen Wang. I am a Ph.D candidate supervised by [Prof. Yingcai Wu](http://www.ycwu.org/) . I major in computational sports science which mainly focuses on knowledge discovering and visual analytics of sports data, especially for table tennis.
+I am a Ph.D candidate supervised by [Prof. Yingcai Wu](http://www.ycwu.org/) . I major in computational sports science which mainly focuses on knowledge discovering and visual analytics of sports data, especially for table tennis.
 
 Moreover, I am also an amateur photographer. If you want to have a look at the pictures I took, you can visit my [500px](https://500px.com/343725635)
 
 **E-mail**: wangjiachen@zju.edu.cn <br/>
 **Phone**: +86 17764519325
 
+
 # Education experience
 * 2014 - 2018: Digital Media Technology, Department of Computer Science, Zhejiang University
 * 2018 - : Computational Sports Science, State Key Lab of CAD & CG, Zhejiang University
 
+ 
 # Publication
 ### 2021
 SimuExplorer: Visual Exploration of Game Simulation in Table Tennis. [paper](https://zjuidg.org/source/projects/SimuExplorer/SimuExplorer.pdf) <br/>
@@ -46,6 +48,7 @@ ForVizor: Visualizing Spatio-Temporal Team Formations in Soccer. [paper](https:/
 iTTVivs: Interactive Visualization of Table Tennis Data. [paper](https://zjuidg.org/source/projects/iTTVis/iTTVis.pdf) <br/>
 *Yingcai Wu, Ji Lan, Xinhuan Shu, Chengyang Ji, Kejian Zhao, **Jiachen Wang**, and Hui Zhang.* IEEE TVCG 2018 (IEEE InfoVis 2017). 
 
+
 # Awards
 * Semester 2020-2021: First prize in the Humanities and Social Sciences Award for outstanding achievement
 * Semester 2020-2021: National Scholarship
@@ -58,6 +61,7 @@ iTTVivs: Interactive Visualization of Table Tennis Data. [paper](https://zjuidg.
 * Semester 2015-2016: Academic Star of Department of Computer Science and Technology
 * Semester 2014-2015: Outstanding Student Leader of Zhejiang University
 * Semester 2014-2015: Second-Class Scholarship for Outstanding Students
+
 
 # CV
 You can download the pdf version of my [CV](cv/Jiachen Wang_English CV.pdf)
