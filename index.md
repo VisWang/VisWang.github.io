@@ -13,6 +13,12 @@ Moreover, I am also an amateur photographer. If you want to have a look at the p
 
  
 # Publication
+
+### 2022
+Tac-Trainer: A Visual Analytics System for IoT-based Racket Sports Training. [paper] <br/>
+***Jiachen Wang**, Ji Ma, Kangping Hu, Zheng Zhou, Hui Zhang, Xiao Xie, Yingcai Wu*
+To appear in IEEE Transactions on Visualization and Computer Graphics, IEEE VIS 2022
+
 ### 2021
 SimuExplorer: Visual Exploration of Game Simulation in Table Tennis. [paper](https://zjuidg.org/source/projects/SimuExplorer/SimuExplorer.pdf) <br/>
 *Ji Lan, Zheng Zhou, **Jiachen Wang**, Hui Zhang, Xiao Xie, Yingicai Wu.* IEEE Transactions on Visualization and Computer Graphics. 
