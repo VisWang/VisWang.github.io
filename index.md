@@ -6,7 +6,7 @@ I major in computational sports science which mainly focuses on knowledge discov
 
 Moreover, I am also an amateur photographer. If you want to have a look at the pictures I took, you can visit my [500px](https://500px.com/343725635)
 
-**E-mail**: wangjiachen@zju.edu.cn <br/>
+**E-mail**: csejiachenw@ust.hk <br/>
 **Phone**: +86 17764519325
 
 
