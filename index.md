@@ -10,11 +10,11 @@ Moreover, I am also an amateur photographer. If you want to have a look at the p
 **Phone**: +86 17764519325
 
 # Work experience
-* 2023.9 - : Department of Computer Science and Engineering, Hong Kong University of Science and Technology
+* 2023.09 - : Postdoctoral Fellow, Department of Computer Science and Engineering, Hong Kong University of Science and Technology
 
 # Education experience
-* 2014.9 - 2018.6: Digital Media Technology, Department of Computer Science, Zhejiang University
-* 2018.9 - 2023.6: Computational Sports Science, State Key Lab of CAD & CG, Zhejiang University
+* 2014.09 - 2018.06: B.S., Digital Media Technology, Department of Computer Science, Zhejiang University
+* 2018.09 - 2023.06: Ph.D., Computational Sports Science, State Key Lab of CAD & CG, Zhejiang University
 
 
  
