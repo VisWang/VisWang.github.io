@@ -1,18 +1,20 @@
 # Bio
-I am currently a postdoctoral researcher working with [Prof. Huamin Qu](http://huamin.org/) at the  department of Computer Science and Engineering of Hong Kong University of Science and Technology.
-I received my Ph.D. at the department of computer science and technology of Zhejiang University, where I am supervised by [Prof. Yingcai Wu](http://www.ycwu.org/). Before that, I obtained my B.S. degree from Zhejiang University.
+I am currently a postdoctoral researcher working with [Prof. Huamin Qu](http://huamin.org/) at the Department of Computer Science and Engineering of Hong Kong University of Science and Technology.
+I received my Ph.D. at the Department of Computer Science and Technology of Zhejiang University, where I am supervised by [Prof. Yingcai Wu](http://www.ycwu.org/). Before that, I obtained my B.S. degree from Zhejiang University.
 
-I major in computational sports science which mainly focuses on knowledge discovering and visual analytics of sports data.
+I major in computational sports science which mainly focuses on knowledge discovery and visual analytics of sports data.
 
 Moreover, I am also an amateur photographer. If you want to have a look at the pictures I took, you can visit my [500px](https://500px.com/343725635)
 
 **E-mail**: csejiachenw@ust.hk <br/>
 **Phone**: +86 17764519325
 
+# Work experience
+* 2023.9 - : Department of Computer Science and Engineering, Hong Kong University of Science and Technology
 
 # Education experience
-* 2014 - 2018: Digital Media Technology, Department of Computer Science, Zhejiang University
-* 2018 - 2023: Computational Sports Science, State Key Lab of CAD & CG, Zhejiang University
+* 2014.9 - 2018.6: Digital Media Technology, Department of Computer Science, Zhejiang University
+* 2018.9 - 2023.6: Computational Sports Science, State Key Lab of CAD & CG, Zhejiang University
 
 
  
@@ -80,6 +82,7 @@ IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2017), 24 (1)
 
 
 # Awards
+* **Motivation Program for Doctoral Dissertations of the Chinese Society of Image and Graphics**
 * Semester 2022-2023: Silver awards of the 9th Zhejiang College Students "Internet Plus" Innovation and Entrepreneurship Competition
 * Semester 2022-2023: The 2nd prize in the Humanities and Social Sciences Award for outstanding achievement of Zhejiang University
 * Semester 2021-2022: Longfor scholarship
