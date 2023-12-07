@@ -23,7 +23,7 @@ Moreover, I am also an amateur photographer. If you want to have a look at the p
 ### 2023
 AR-Enhanced Workouts: Exploring Visual Cues for At-Home Workout Videos in AR Environment<br/>
 *Yihong Wu, Lingyun Yu, Jie Xu, Dazhen, Deng, **Jiachen Wang**, Xiao Xie, Hui Zhang, and Yingcai Wu.* <br/>
-Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology, To appear.
+Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology, 1-15
 
 Tac-Anticipator: Visual Analytics of Anticipation Behaviors in Table Tennis Matches<br/>
 ***Jiachen Wang**, Yihong Wu, Xiaolong Zhang, Yixin Zeng, Zheng Zhou, Hui Zhang, Xiao Xie, and Yingcai Wu.* <br/>
