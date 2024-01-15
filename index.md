@@ -21,12 +21,12 @@ Moreover, I am also an amateur photographer. If you want to have a look at the p
 # Publication
 
 ### 2024
-TacPrint: Visualizing the Biomechanical Fingerprint in Table Tennis<br/>
+TacPrint: Visualizing the Biomechanical Fingerprint in Table Tennis. [paper]<br/>
 ***Jiachen Wang**, Ji Ma, Zheng Zhou, Xiao Xie, Hui Zhang, Yingcai Wu, and Huamin Q.* <br/>
 To appear in IEEE Transactions on Visualization and Computer Graphics
 
 ### 2023
-AR-Enhanced Workouts: Exploring Visual Cues for At-Home Workout Videos in AR Environment<br/>
+AR-Enhanced Workouts: Exploring Visual Cues for At-Home Workout Videos in AR Environment. [paper](https://zjuidg.org/source/projects/ArEnhanced/ArEnhanced.pdf) <br/>
 *Yihong Wu, Lingyun Yu, Jie Xu, Dazhen, Deng, **Jiachen Wang**, Xiao Xie, Hui Zhang, and Yingcai Wu.* <br/>
 Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology, 1-15
 
@@ -106,7 +106,7 @@ IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2017), 24 (1)
 
 
 # CV
-You can download the pdf version of my [CV](cv/Jiachen Wang_English CV.pdf)
+You can download the pdf version of my [CV](cv/cv_main.pdf)
 
 <!-- ## Welcome to GitHub Pages
 
