@@ -17,9 +17,9 @@ cv_link: ./cv/cv_main.pdf
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./pic/me.JPG
-favicon: ./pic/me_pure.png
-favicon_dark: ./pic/me_pure.png
+avatar: ./assets/img/me.JPG
+favicon: ./assets/img/me_pure.png
+favicon_dark: ./assets/img/me_pure.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
