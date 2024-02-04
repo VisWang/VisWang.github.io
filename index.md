@@ -22,72 +22,7 @@ Moreover, I am also an amateur photographer. If you want to have a look at the p
 * 2018.09 - 2023.06: Ph.D., Computational Sports Science, State Key Lab of CAD & CG, Zhejiang University
 
  
-# Publication
-
-### 2024
-TacPrint: Visualizing the Biomechanical Fingerprint in Table Tennis. [paper]<br/>
-***Jiachen Wang**, Ji Ma, Zheng Zhou, Xiao Xie, Hui Zhang, Yingcai Wu, and Huamin Q.* <br/>
-To appear in IEEE Transactions on Visualization and Computer Graphics
-
-### 2023
-AR-Enhanced Workouts: Exploring Visual Cues for At-Home Workout Videos in AR Environment. [paper](https://zjuidg.org/source/projects/ArEnhanced/ArEnhanced.pdf) <br/>
-*Yihong Wu, Lingyun Yu, Jie Xu, Dazhen, Deng, **Jiachen Wang**, Xiao Xie, Hui Zhang, and Yingcai Wu.* <br/>
-Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology, 1-15
-
-Tac-Anticipator: Visual Analytics of Anticipation Behaviors in Table Tennis Matches<br/>
-***Jiachen Wang**, Yihong Wu, Xiaolong Zhang, Yixin Zeng, Zheng Zhou, Hui Zhang, Xiao Xie, and Yingcai Wu.* <br/>
-Computer Graphics Forum (EuroVis 2023), 42 (3), 223-234
-
-SimuExplorer: Visual Exploration of Game Simulation in Table Tennis. [paper](https://zjuidg.org/source/projects/SimuExplorer/SimuExplorer.pdf) <br/>
-*Ji Lan, Zheng Zhou, **Jiachen Wang**, Hui Zhang, Xiao Xie, and Yingicai Wu.* <br/>
-IEEE Transactions on Visualization and Computer Graphics, 29 (3), 1719-1732
-
-
-### 2022
-Tac-Trainer: A Visual Analytics System for IoT-based Racket Sports Training. [paper] <br/>
-***Jiachen Wang**, Ji Ma, Kangping Hu, Zheng Zhou, Hui Zhang, Xiao Xie, and Yingcai Wu.* <br/>
-IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2022), 29 (1), 951-961
-
-Interactive Visual Exploration of Longitudinal Historical Career Mobility Data. [paper](https://zjuidg.org/source/projects/CareerLens/CareerLens.pdf) <br/>
-*Yifang Wang, Hongye Liang, Xinhuan Shu, **Jiachen Wang**, Ke Xu, Zikun Deng, Cameron Campbell, Bijia Chen, YIngcai Wu, and Huamin Qu.* <br/>
-IEEE Transactions on Visualization and Computer Graphics, 28 (10), 3441-3455.
-
-### 2021
-What makes a scatterplot hard to comprehend: data size and pattern salience matter. <br/>
-***Jiachen Wang**, Xiwen Cai, Jiajie Su, Yu Liao, and Yingcai Wu.*<br/>
-Journal of Visualization (ChinaVis 2021), 25 (1), 59-75.
-
-Tac-Valuer: Knowledge-based Stroke Evaluation in Table Tennis. [paper](https://zjuidg.org/source/projects/tacValuer/tacValuer.pdf) <br/>
-***Jiachen Wang**, Dazhen Deng, Xiao Xie, Xinhuan Shu, Yu-Xuan Huang, Le-Wen Cai, Hui Zhang, Min-Ling Zhang, Zhi-Hua Zhou, and Yingcai Wu.*<br/>
-Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining, 3688-3696 
-
-Tac-Miner: Visual Tactic Mining for Multiple Table Tennis Matches. [paper](https://zjuidg.org/source/projects/TacMiner/tacminer.pdf) <br/>
-***Jiachen Wang**, Jiang Wu, Anqi Cao, Zheng Zhou, Hui Zhang, and Yingcai Wu* <br/>
-IEEE Transactions on Visualization and Computer Graphics (IEEE PacificVis 2021), 27 (6), 2770-2782.
-
-EventAnchor: Reducing Human Interactions in Event Annotation of Racket Sports Videos. [paper](https://zjuidg.org/source/projects/eventanchor/eventanchor.pdf) <br/>
-*Dazhen Deng, Jiang Wu, **Jiachen Wang**, Yihong Wu, Xiao Xie, Zheng Zhou, Hui Zhang, Xiaolong Zhang, and Yingcai Wu.* <br/>
-Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems, 1-13.
-
-PassVizor: Toward Better Understanding of the Dynamics of Soccer Passes. [paper](https://zjuidg.org/source/projects/passvizor/passvizor.pdf) <br/>
-*Xiao Xie, **Jiachen Wang**, Hongye Liang, Dazhen Deng, Shoubin Cheng, Hui Zhang, Wei Chen, and Yingcai Wu.* <br/>
-IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2020), 27 (2), 1322-1331.
-
-
-### 2020
-Tac-Simur: Tactic-based Simulative Visual Analytics of Table Tennis. [paper](https://zjuidg.org/source/projects/tacSimur/Tac-Simur.pdf) [video](https://www.youtube.com/watch?v=_I6cne3Wd4U&feature=youtu.be) <br/>
-***Jiachen Wang**, Kejian Zhao, Dazhen Deng, Anqi Cao, Xiao Xie, Zheng Zhou, Hui Zhang, and Yingcai Wu.*  <br/>
-IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2019), 26 (1), 407-417
-
-### 2019
-ForVizor: Visualizing Spatio-Temporal Team Formations in Soccer. [paper](https://zjuidg.org/source/projects/forvizor/forvizor.pdf) [video](https://www.youtube.com/watch?v=03U7PESGkOQ) <br/>
-*Yingcai Wu, Xiao Xie, **Jiachen Wang**, Dazhen Deng, Hongye Liang, Hui Zhang, Shoubin Cheng, and Wei Chen.*  <br/>
-IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2018), 25 (1), 65-75
-
-### 2018
-iTTVivs: Interactive Visualization of Table Tennis Data. [paper](https://zjuidg.org/source/projects/iTTVis/iTTVis.pdf) <br/>
-*Yingcai Wu, Ji Lan, Xinhuan Shu, Chengyang Ji, Kejian Zhao, **Jiachen Wang**, and Hui Zhang.*  <br/>
-IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2017), 24 (1), 709-718
+{% include_relative _includes/publications.md %}
 
 
 # Awards
@@ -109,6 +44,30 @@ IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2017), 24 (1)
 * Semester 2014-2015: Second-Class Scholarship for Outstanding Students
 
 
-{% include_relative _includes/publications.md %}
+# Service
 
-{% include_relative _includes/services.md %}
+### Conference Reviewer
+
+* EuroVis 2024
+* ACM SIGCHI 2024
+* IACSS 2023
+* IEEE VIS 2023
+* IEEE VIS 2022
+* IEEE VIS 2021
+* EuroVis 2021
+* IEEE VIS 2020
+* ACM SIGCHI 2020
+
+### Journal Reviewer
+
+* IEEE Transactions on Visualization and Computer Graphics
+* Expert Systems with Applications
+* Internet of Things Journal
+* Journal of Big Data
+* Journal of Visualization 
+
+### Teaching Assistant
+
+* History of Computer Thoughts, Zhejiang University, 2020
+* Information Visualization, Zhejiang University, 2019
+* Cross Media Data Visualization, Zhejiang University, 2019
