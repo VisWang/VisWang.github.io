@@ -109,6 +109,6 @@ IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2017), 24 (1)
 * Semester 2014-2015: Second-Class Scholarship for Outstanding Students
 
 
-<!-- {% include_relative _includes/publications.md %}
+{% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %} -->
+{% include_relative _includes/services.md %}
