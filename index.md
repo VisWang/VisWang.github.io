@@ -6,12 +6,12 @@ layout: homepage
 I am currently a postdoctoral researcher working with [Prof. Huamin Qu](http://huamin.org/) at the Department of Computer Science and Engineering of Hong Kong University of Science and Technology.
 I received my Ph.D. at the Department of Computer Science and Technology of Zhejiang University, where I am supervised by [Prof. Yingcai Wu](http://www.ycwu.org/). Before that, I obtained my B.S. degree from Zhejiang University.
 
-I major in computational sports science which mainly focuses on knowledge discovery and visual analytics of sports data.
+I major in **computational sports science** which mainly focuses on knowledge discovery and visual analytics of sports data.
 
 Moreover, I am also an amateur photographer. If you want to have a look at the pictures I took, you can visit my [500px](https://500px.com/343725635)
 
-**E-mail**: csejiachenw@ust.hk <br/>
-**Phone**: +86 17764519325
+<!-- **E-mail**: csejiachenw@ust.hk <br/>
+**Phone**: +86 17764519325 -->
 
 
 ## Work experience
