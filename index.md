@@ -14,10 +14,10 @@ Moreover, I am also an amateur photographer. If you want to have a look at the p
 **Phone**: +86 17764519325
 
 
-# Work experience
+## Work experience
 * 2023.09 -: Postdoctoral Fellow, Department of Computer Science and Engineering, Hong Kong University of Science and Technology
 
-# Education experience
+## Education experience
 * 2014.09 - 2018.06: B.S., Digital Media Technology, Department of Computer Science, Zhejiang University
 * 2018.09 - 2023.06: Ph.D., Computational Sports Science, State Key Lab of CAD & CG, Zhejiang University
 
@@ -25,7 +25,7 @@ Moreover, I am also an amateur photographer. If you want to have a look at the p
 {% include_relative _includes/publications.md %}
 
 
-# Awards
+## Awards
 * **Motivation Program for Doctoral Dissertations of the Chinese Society of Image and Graphics**
 * Semester 2022-2023: Silver awards of the 9th Zhejiang College Students "Internet Plus" Innovation and Entrepreneurship Competition
 * Semester 2022-2023: The 2nd prize in the Humanities and Social Sciences Award for outstanding achievement of Zhejiang University
@@ -44,7 +44,7 @@ Moreover, I am also an amateur photographer. If you want to have a look at the p
 * Semester 2014-2015: Second-Class Scholarship for Outstanding Students
 
 
-# Service
+## Service
 
 ### Conference Reviewer
 
