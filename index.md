@@ -21,6 +21,11 @@ Moreover, I am also an amateur photographer. If you want to have a look at the p
 * 2014.09 - 2018.06: B.S., Digital Media Technology, Department of Computer Science, Zhejiang University
 * 2018.09 - 2023.06: Ph.D., Computational Sports Science, State Key Lab of CAD & CG, Zhejiang University
 
+## News
+* 2024.12: TacPrint is accepted by IEEE PacificVis 2024 TVCG journal track.
+* 2024.12: I successfully joined the Motivation Program for Doctoral Dissertations of the Chinese Society of Image and Graphics.
+* 2024.09: I started to work as a postdoctoral fellow supervised by Prof. Huamin Qu at VisLab in HKUST.
+* 2024.06: I graduated from Zhejiang University!
  
 {% include_relative _includes/publications.md %}
 
