@@ -31,6 +31,7 @@ Moreover, I am also an amateur photographer. If you want to have a look at the p
 
 
 ## Awards
+* Outstanding Doctoral Thesis of Zhejiang University
 * **Motivation Program for Doctoral Dissertations of the Chinese Society of Image and Graphics**
 * Semester 2022-2023: Silver awards of the 9th Zhejiang College Students "Internet Plus" Innovation and Entrepreneurship Competition
 * Semester 2022-2023: The 2nd prize in the Humanities and Social Sciences Award for outstanding achievement of Zhejiang University
