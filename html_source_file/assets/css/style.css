@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap");
 body { background-color: #fff; padding: 0px; font: 16.0px/1.5 Crimson Pro, serif; color: #595959; font-weight: 400; margin: 0; }
 
-.pub-row { display: flex; align-items: center; }
+.pub-row { display: flex; align-items: top; }
 
 .social-icons a { display: inline-block; height: 2.4rem; width: 2.4rem; background-color: transparent; color: #043361 !important; border-radius: 100%; text-align: center; font-size: 1.15rem; line-height: 2.5rem; margin-right: 1rem; }
 
@@ -73,9 +73,9 @@ papertitle { font-weight: 600; font-size: 100%; }
 
 h3, h4, h5, h6 { font-weight: 600; color: #043361; margin: 0 0 20px; }
 
-h1 { font-weight: 500; color: #043361; margin: 0 0 20px; }
+h1 { color: #043361; margin: 0 0 20px; }
 
-h2 { color: #043361; font-weight: 500; margin: 2px 0px 15px; font-size: 157%; }
+h2 { color: #797979; margin: 2px 0px 15px; font-size: 157%; }
 
 @media (prefers-color-scheme: dark) { h1, h3, h4, h5, h6 { color: #3eb7f0; }
   h2 { color: #3eb7f0; } }

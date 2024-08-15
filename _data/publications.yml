@@ -1,99 +1,99 @@
 main:
 
   - title: "TacPrint: Visualizing the Biomechanical Fingerprint in Table Tennis"
-    authors: <strong>Jiachen Wang</strong>, Ji Ma, Zheng Zhou, Xiao Xie, Hui Zhang, Yingcai Wu, and Huamin Qu
+    authors: <strong>Jiachen Wang</strong>, Ji Ma, Zheng Zhou, Xiao Xie, Hui Zhang, Yingcai Wu, and Huamin Qu.
     conference_short: TVCG
-    conference: To appear in IEEE Transactions on Visualization and Computer Graphics<strong>(IEEE TVCG)</strong>, 2024.
+    conference: IEEE Transactions on Visualization and Computer Graphics<strong>(IEEE TVCG)</strong>, 2024.
     doi: https://pacificvis.github.io/pvis2024/accepted/
     image: ./assets/img/tacprint.png
-    notes: Early Accept
+    # notes: Early Accept
 
   - title: "AR-Enhanced Workouts: Exploring Visual Cues for At-Home Workout Videos in AR Environment"
-    authors: Yihong Wu, Lingyun Yu, Jie Xu, Dazhen, Deng, <strong>Jiachen Wang</strong>, Xiao Xie, Hui Zhang, and Yingcai Wu
+    authors: Yihong Wu, Lingyun Yu, Jie Xu, Dazhen, Deng, <strong>Jiachen Wang</strong>, Xiao Xie, Hui Zhang, and Yingcai Wu.
     conference_short: UIST
     conference: Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology<strong>(UIST)</strong>, 2023.
     doi: https://dl.acm.org/doi/10.1145/3586183.3606796
     image: ./assets/img/arenhanced.png
     
   - title: "Tac-Anticipator: Visual Analytics of Anticipation Behaviors in Table Tennis Matches"
-    authors: <strong>Jiachen Wang</strong>, Yihong Wu, Xiaolong Zhang, Yixin Zeng, Zheng Zhou, Hui Zhang, Xiao Xie, and Yingcai Wu
+    authors: <strong>Jiachen Wang</strong>, Yihong Wu, Xiaolong Zhang, Yixin Zeng, Zheng Zhou, Hui Zhang, Xiao Xie, and Yingcai Wu.
     conference_short: CGF
     conference: Computer Graphics Forum (EuroVis 2023)<strong>(CGF)</strong>, 2023.
     doi: https://doi.org/10.1111/cgf.14825
     image: ./assets/img/tacanticipator.png
 
   - title: "SimuExplorer: Visual Exploration of Game Simulation in Table Tennis"
-    authors: Ji Lan, Zheng Zhou, <strong>Jiachen Wang</strong>, Hui Zhang, Xiao Xie, and Yingicai Wu
+    authors: Ji Lan, Zheng Zhou, <strong>Jiachen Wang</strong>, Hui Zhang, Xiao Xie, and Yingcai Wu.
     conference_short: TVCG
     conference: IEEE Transactions on Visualization and Computer Graphics<strong>(TVCG)</strong>, 2023.
     doi: https://doi.org/10.1109/TVCG.2021.3130422
     image: ./assets/img/simu.png
 
   - title: "Tac-Trainer: A Visual Analytics System for IoT-based Racket Sports Training"
-    authors: <strong>Jiachen Wang</strong>, Ji Ma, Kangping Hu, Zheng Zhou, Hui Zhang, Xiao Xie, and Yingcai Wu
+    authors: <strong>Jiachen Wang</strong>, Ji Ma, Kangping Hu, Zheng Zhou, Hui Zhang, Xiao Xie, and Yingcai Wu.
     conference_short: TVCG
     conference: IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2022)<strong>(TVCG)</strong>, 2023.
     doi: https://doi.org/10.1109/TVCG.2022.3209352
     image: ./assets/img/tactrainer.png
 
   - title: "Interactive Visual Exploration of Longitudinal Historical Career Mobility Data"
-    authors: Yifang Wang, Hongye Liang, Xinhuan Shu, <strong>Jiachen Wang</strong>, Ke Xu, Zikun Deng, Cameron Campbell, Bijia Chen, YIngcai Wu, and Huamin Qu
+    authors: Yifang Wang, Hongye Liang, Xinhuan Shu, <strong>Jiachen Wang</strong>, Ke Xu, Zikun Deng, Cameron Campbell, Bijia Chen, Yingcai Wu, and Huamin Qu.
     conference_short: TVCG
     conference: IEEE Transactions on Visualization and Computer Graphics<strong>(TVCG)</strong>, 2022.
     doi: https://doi.org/10.1109/TVCG.2021.3067200
     image: ./assets/img/interactive.png
     
   - title: "What makes a scatterplot hard to comprehend: data size and pattern salience matter"
-    authors: <strong>Jiachen Wang</strong>, Xiwen Cai, Jiajie Su, Yu Liao, and Yingcai Wu
+    authors: <strong>Jiachen Wang</strong>, Xiwen Cai, Jiajie Su, Yu Liao, and Yingcai Wu.
     conference_short: JoV
     conference: Journal of Visualization (ChinaVis 2021)<strong>(JoV)</strong>, 2021.
     doi: https://doi.org/10.1007/s12650-021-00778-8
     image: ./assets/img/jov.png
 
   - title: "Tac-Valuer: Knowledge-based Stroke Evaluation in Table Tennis"
-    authors: <strong>Jiachen Wang</strong>, Dazhen Deng, Xiao Xie, Xinhuan Shu, Yu-Xuan Huang, Le-Wen Cai, Hui Zhang, Min-Ling Zhang, Zhi-Hua Zhou, and Yingcai Wu
+    authors: <strong>Jiachen Wang</strong>, Dazhen Deng, Xiao Xie, Xinhuan Shu, Yu-Xuan Huang, Le-Wen Cai, Hui Zhang, Min-Ling Zhang, Zhi-Hua Zhou, and Yingcai Wu.
     conference_short: SIGKDD
     conference: Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining<strong>(SIGKDD)</strong>, 2021.
     doi: https://doi.org/10.1145/3447548.3467104
     image: ./assets/img/tacvaluer.png
 
   - title: "Tac-Miner: Visual Tactic Mining for Multiple Table Tennis Matches"
-    authors: <strong>Jiachen Wang</strong>, Jiang Wu, Anqi Cao, Zheng Zhou, Hui Zhang, and Yingcai Wu
+    authors: <strong>Jiachen Wang</strong>, Jiang Wu, Anqi Cao, Zheng Zhou, Hui Zhang, and Yingcai Wu.
     conference_short: TVCG
     conference: IEEE Transactions on Visualization and Computer Graphics (IEEE PacificVis 2021)<strong>(TVCG)</strong>, 2021.
     doi: https://doi.org/10.1109/TVCG.2021.3074576
     image: ./assets/img/tacminer.png
 
   - title: "EventAnchor: Reducing Human Interactions in Event Annotation of Racket Sports Videos"
-    authors: Dazhen Deng, Jiang Wu, *<strong>Jiachen Wang</strong>, Yihong Wu, Xiao Xie, Zheng Zhou, Hui Zhang, Xiaolong Zhang, and Yingcai Wu
+    authors: Dazhen Deng, Jiang Wu, *<strong>Jiachen Wang</strong>, Yihong Wu, Xiao Xie, Zheng Zhou, Hui Zhang, Xiaolong Zhang, and Yingcai Wu.
     conference_short: SIGCHI
     conference: Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems<strong>(SIGCHI)</strong>, 2021.
     doi: https://doi.org/10.1145/3411764.3445431
     image: ./assets/img/eventanchor.png
     
   - title: "PassVizor: Toward Better Understanding of the Dynamics of Soccer Passes"
-    authors: Xiao Xie, <strong>Jiachen Wang</strong>, Hongye Liang, Dazhen Deng, Shoubin Cheng, Hui Zhang, Wei Chen, and Yingcai Wu
+    authors: Xiao Xie, <strong>Jiachen Wang</strong>, Hongye Liang, Dazhen Deng, Shoubin Cheng, Hui Zhang, Wei Chen, and Yingcai Wu.
     conference_short: TVCG
     conference: IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2020)<strong>(TVCG)</strong>, 2021.
     doi: https://doi.org/10.1109/TVCG.2020.3030359
     image: ./assets/img/passvizor.png
 
   - title: "Tac-Simur: Tactic-based Simulative Visual Analytics of Table Tennis"
-    authors: <strong>Jiachen Wang</strong>, Kejian Zhao, Dazhen Deng, Anqi Cao, Xiao Xie, Zheng Zhou, Hui Zhang, and Yingcai Wu
+    authors: <strong>Jiachen Wang</strong>, Kejian Zhao, Dazhen Deng, Anqi Cao, Xiao Xie, Zheng Zhou, Hui Zhang, and Yingcai Wu.
     conference_short: TVCG
     conference: IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2019)<strong>(TVCG)</strong>, 2020.
     doi: https://doi.org/10.1109/TVCG.2019.2934630
     image: ./assets/img/tacsimur.png
 
   - title: "ForVizor: Visualizing Spatio-Temporal Team Formations in Soccer"
-    authors: Yingcai Wu, Xiao Xie, <strong>Jiachen Wang</strong>, Dazhen Deng, Hongye Liang, Hui Zhang, Shoubin Cheng, and Wei Chen
+    authors: Yingcai Wu, Xiao Xie, <strong>Jiachen Wang</strong>, Dazhen Deng, Hongye Liang, Hui Zhang, Shoubin Cheng, and Wei Chen.
     conference_short: TVCG
     conference: IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2018)<strong>(TVCG)</strong>, 2019.
     doi: https://doi.org/10.1109/TVCG.2018.2865041
     image: ./assets/img/forvizor.png
 
   - title: "iTTVivs: Interactive Visualization of Table Tennis Data"
-    authors: Yingcai Wu, Ji Lan, Xinhuan Shu, Chengyang Ji, Kejian Zhao, <strong>Jiachen Wang</strong>, and Hui Zhang
+    authors: Yingcai Wu, Ji Lan, Xinhuan Shu, Chengyang Ji, Kejian Zhao, <strong>Jiachen Wang</strong>, and Hui Zhang.
     conference_short: TVCG
     conference: IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2017)<strong>(TVCG)</strong>, 2018.
     doi: https://doi.org/10.1109/TVCG.2017.2744218
