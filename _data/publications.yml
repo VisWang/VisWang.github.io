@@ -1,12 +1,18 @@
 main:
 
+  - title: "StuGPTViz: A Visual Analytics Approach to Understand Student-ChatGPT Interactions"
+  authors: Zixin Chen, <strong>Jiachen Wang</strong>, Meng Xia, Kento Shigyo, Dingdong Liu, Rong Zhang, and Huamin Qu.
+  conference_short: TVCG
+  conference: IEEE Transactions on Visualization and Computer Graphics<strong>(IEEE TVCG)</strong>, 2025.
+  doi: https://doi.org/10.1109/TVCG.2024.3456363
+  image: ./assets/img/StuGPTVIZ.png
+
   - title: "TacPrint: Visualizing the Biomechanical Fingerprint in Table Tennis"
     authors: <strong>Jiachen Wang</strong>, Ji Ma, Zheng Zhou, Xiao Xie, Hui Zhang, Yingcai Wu, and Huamin Qu.
     conference_short: TVCG
     conference: IEEE Transactions on Visualization and Computer Graphics<strong>(IEEE TVCG)</strong>, 2024.
-    doi: https://pacificvis.github.io/pvis2024/accepted/
+    doi: https://doi.org/10.1109/TVCG.2024.3388555
     image: ./assets/img/tacprint.png
-    # notes: Early Accept
 
   - title: "AR-Enhanced Workouts: Exploring Visual Cues for At-Home Workout Videos in AR Environment"
     authors: Yihong Wu, Lingyun Yu, Jie Xu, Dazhen, Deng, <strong>Jiachen Wang</strong>, Xiao Xie, Hui Zhang, and Yingcai Wu.
