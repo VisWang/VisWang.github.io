@@ -23,6 +23,8 @@ Moreover, I am also an amateur photographer. If you want to have a look at the p
 * 2018.09 - 2023.06: Ph.D., Computational Sports Science, State Key Lab of CAD & CG, Zhejiang University
 
 ## News
+* 2025.05: Our paper [T3Set](https://github.com/jima-cs/t3set) is accepted by ACM SIGKDD 2025.
+* 2025.03: Our paper [Empowering Multimodal Analysis](https://doi.org/10.1016/j.cosrev.2025.100748) is accepted by Computer Science Review.
 * 2024.09: I joined Zhejiang University as a tenure-track assistant professor (ZJU 100-Young professor)
 * 2024.07: Our paper [StuGPTViz](https://ieeexplore.ieee.org/document/10689494) is accepted by IEEE VIS 2024.
 * 2023.12: Our paper [TacPrint](https://ieeexplore.ieee.org/document/10500518) is accepted by IEEE PacificVis 2024 TVCG journal track.
