@@ -1,9 +1,22 @@
 main:
+  - title: "CLLMate: A Multimodal Benchmark for Weather and Climate Events Forecasting"
+    authors: Haobo Li, Zhaowei Wang, <strong>Jiachen Wang</strong>, Yueya Wang, Alexis Kai Hon Lau, Huamin Qu
+    conference_short: EMNLP
+    conference: The 2025 Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2025.
+    doi: https://doi.org/10.48550/arXiv.2409.19058
+    image: ./assets/img/cllmate.png
+    
+  - title: "CoGrader: Transforming Instructors' Assessment of Project Reports through Collaborative LLM Integration"
+    authors: Zixin Chen, <strong>Jiachen Wang</strong>, Yumeng Li, Haobo Li, Chuhan Shi, Rong Zhang, Huamin Qu
+    conference_short: UIST
+    conference: Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology <strong>(ACM UIST)</strong>, 2025.
+    doi: https://dl.acm.org/doi/10.1145/3746059.3747670
+    image: ./assets/img/gograder.png
   
   - title: "T3Set: A Multimodal Dataset with Targeted Suggestions for LLM-based Virtual Coach in Table Tennis Training"
     authors: Ji Ma, Jiale Wu, Haoyu Wang, Yanze Zhang, Xiao Xie, Zheng Zhou, Hui Zhang, <strong>Jiachen Wang*</strong>, Yingcai Wu.
     conference_short: KDD
-    conference: To appear in the Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining <strong>(ACM SIGKDD)</strong>, 2025.
+    conference: Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining <strong>(ACM SIGKDD)</strong>, 2025.
     doi: https://doi.org/10.1145/3711896.3737407
     image: ./assets/img/T3Set.png
   
